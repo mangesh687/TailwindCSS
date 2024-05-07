@@ -1,4 +1,9 @@
 # TailwindCSS
+shortcut 
+shift +left/ right key 
+similar to contol+alt+down key 
+
+
 https://tailwindcss.com/docs/installation/using-postcss
 PS C:\Users\MANGESH PAKHALE\Desktop\TailwindCSS> npm init -y
 Wrote to C:\Users\MANGESH PAKHALE\Desktop\TailwindCSS\package.json:
